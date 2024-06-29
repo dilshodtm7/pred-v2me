@@ -207,7 +207,8 @@ const indexactive = () => {
         <div className="loader">
           <img src={imgSrc} className="jets" alt="" />
           <div className="plane">
-            <img src="/src/alls/1win/4820.gif" className="plane-img" alt="loading plane" />
+            
+            <img src="https://zupimages.net/up/19/34/4820.gif" className="plane-img" className="plane-img"/>
           </div>
           <div className="earth-wrapper">
             <h3 className="lucky-text" id="lucky">
