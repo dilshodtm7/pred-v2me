@@ -207,10 +207,7 @@ const indexactive = () => {
         <div className="loader">
           <img src={imgSrc} className="jets" alt="" />
           <div className="plane">
-            <img
-              src="/src/alls/1win/4820.gif"
-              className="plane-img"
-            />
+            <img src="/src/alls/1win/4820.gif" className="plane-img" alt="loading plane" />
           </div>
           <div className="earth-wrapper">
             <h3 className="lucky-text" id="lucky">
