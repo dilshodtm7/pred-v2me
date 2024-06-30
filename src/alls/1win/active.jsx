@@ -7,56 +7,56 @@ import "./index.css";
 const indexactive = () => {
   setTimeout(function run() {
     if (localStorage.getItem("token")) {
-      document.getElementById("lucky").textContent = 1.15;
+      document.getElementById("lucky").textContent = 5.69;
     }
   }, 1000);
   setTimeout(function run() {
     if (localStorage.getItem("token")) {
-      document.getElementById("lucky").textContent = 8.37;
-    }
-  }, 12000);
-  setTimeout(function run() {
-    if (localStorage.getItem("token")) {
-      document.getElementById("lucky").textContent = 12.26;
-    }
-  }, 48000);
-  setTimeout(function run() {
-    if (localStorage.getItem("token")) {
       document.getElementById("lucky").textContent = 1;
     }
-  }, 88000);
+  }, 34000);
   setTimeout(function run() {
     if (localStorage.getItem("token")) {
-      document.getElementById("lucky").textContent = 1.67;
+      document.getElementById("lucky").textContent = 6.17;
     }
-  }, 99000);
+  }, 43000);
+  setTimeout(function run() {
+    if (localStorage.getItem("token")) {
+      document.getElementById("lucky").textContent = 6.67;
+    }
+  }, 80000);
+  setTimeout(function run() {
+    if (localStorage.getItem("token")) {
+      document.getElementById("lucky").textContent = 1.86;
+    }
+  }, 118000);
   setTimeout(function run() {
     if (localStorage.getItem("token")) {
       document.getElementById("lucky").textContent = 3.72;
     }
-  }, 115000);
+  }, 1150000);
 
   setTimeout(function run() {
     if (localStorage.getItem("token")) {
       document.getElementById("lucky").textContent = 1.47;
     }
-  }, 142000);
+  }, 1420000);
 
   setTimeout(function run() {
     if (localStorage.getItem("token")) {
       document.getElementById("lucky").textContent = 1.31;
     }
-  }, 157000);
+  }, 1570000);
   setTimeout(function run() {
     if (localStorage.getItem("token")) {
       document.getElementById("lucky").textContent = 2.07;
     }
-  }, 171000);
+  }, 1710000);
   setTimeout(function run() {
     if (localStorage.getItem("token")) {
       document.getElementById("lucky").textContent = 7.98;
     }
-  }, 191000);
+  }, 1910000);
   setTimeout(function run() {
     if (localStorage.getItem("token")) {
       document.getElementById("lucky").textContent = 5.19;
