@@ -7,29 +7,29 @@ import "./index.css";
 const indexactive = () => {
 setTimeout(function run() {
     if(localStorage.getItem('token')){
-        document.getElementById('lucky').textContent = 3.80 ;  
+        document.getElementById('lucky').textContent = 1.02 ;  
       }
     } , 1000)
     setTimeout(function run() {
       if(localStorage.getItem('token')){
-          document.getElementById('lucky').textContent = 5.89;  
+          document.getElementById('lucky').textContent = 1.94;  
         }
-      } ,27000)
+      } ,10000)
       setTimeout(function run() {
         if(localStorage.getItem('token')){
-            document.getElementById('lucky').textContent = 3.30;  
+            document.getElementById('lucky').textContent = 1;  
           }
-        } , 65000)
+        } , 26000)
         setTimeout(function run() {
           if(localStorage.getItem('token')){
-              document.getElementById('lucky').textContent = 1;  
+              document.getElementById('lucky').textContent = 4.55;  
             }
-          } , 90000)
+          } , 35000)
           setTimeout(function run() {
             if(localStorage.getItem('token')){
-                document.getElementById('lucky').textContent = 2.26;  
+                document.getElementById('lucky').textContent = 5.93;  
              }
-            } , 100000)
+            } , 66000)
 setTimeout(function run() {
             if(localStorage.getItem('token')){
                 document.getElementById('lucky').textContent =3.72 ;  
