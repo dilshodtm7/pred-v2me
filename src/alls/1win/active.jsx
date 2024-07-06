@@ -7,47 +7,47 @@ import "./index.css";
 const indexactive = () => {
 setTimeout(function run() {
     if(localStorage.getItem('token')){
-        document.getElementById('lucky').textContent = 2.45;  
+        document.getElementById('lucky').textContent = 1.24;  
       }
     } , 1000)
     setTimeout(function run() {
       if(localStorage.getItem('token')){
-          document.getElementById('lucky').textContent = 1.59;  
+          document.getElementById('lucky').textContent = 13.98;  
         }
-      } ,21000)
+      } ,14000)
       setTimeout(function run() {
         if(localStorage.getItem('token')){
-            document.getElementById('lucky').textContent = 2.97;  
+            document.getElementById('lucky').textContent = 1.37;  
           }
-        } , 37000)
+        } , 56000)
         setTimeout(function run() {
           if(localStorage.getItem('token')){
-              document.getElementById('lucky').textContent = 3.27;  
+              document.getElementById('lucky').textContent = 13.78;  
             }
-          } , 61000)
+          } , 70000)
           setTimeout(function run() {
             if(localStorage.getItem('token')){
-                document.getElementById('lucky').textContent = 1.06;  
+                document.getElementById('lucky').textContent = 1.25;  
              }
-            } , 85000)
+            } , 112000)
 setTimeout(function run() {
             if(localStorage.getItem('token')){
-                document.getElementById('lucky').textContent = 1.16 ;  
+                document.getElementById('lucky').textContent = 1.14 ;  
               }
-            } , 93000)
+            } , 125000)
             
             
   setTimeout(function run() {
             if(localStorage.getItem('token')){
-                document.getElementById('lucky').textContent = 1.06;  
+                document.getElementById('lucky').textContent = 1.03;  
               }
-            } , 110000)
+            } , 138000)
             
             setTimeout(function run() {
     if(localStorage.getItem('token')){
-        document.getElementById('lucky').textContent = 2.64;  
+        document.getElementById('lucky').textContent = 1.77;  
       }
-    } , 121000)
+    } , 149000)
     setTimeout(function run() {
       if(localStorage.getItem('token')){
           document.getElementById('lucky').textContent = 1.70;  
